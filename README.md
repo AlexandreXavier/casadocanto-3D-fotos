@@ -1,4 +1,4 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+Galeria de imagens da Casa do Canto em 3D. Usando Next.js, React, Three.js e TypeScript.
 
 ## Getting Started
 
